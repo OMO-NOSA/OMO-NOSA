@@ -33,6 +33,11 @@ My journey to the tech industry started as far back as when i was in my early te
 <a href="https://www.terraform.io/" target="_blank"> <img align="left" src="https://dashboard.snapcraft.io/site_media/appmedia/2019/11/terraform.png" alt="tf" height ="42px"/> </a>
 <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img align="left" src="https://img.icons8.com/color/344/azure-1.png" alt="Azure" height ="42px"/> </a>
 
+### Badges:
+
+### BAckstage
+<br/>
+
 [![@omonosa's Holopin board](https://holopin.me/omonosa)](https://holopin.io/@omonosa)
 
 <br/>

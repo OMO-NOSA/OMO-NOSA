@@ -37,7 +37,7 @@ My journey to the tech industry started as far back as when i was in my early te
 
 ### Badges:
 
-### BAckstage
+### Backstage
 <br/>
 
 [![@omonosa's Holopin board](https://holopin.me/omonosa)](https://holopin.io/@omonosa)

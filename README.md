@@ -32,10 +32,11 @@ My journey to the tech industry started as far back as when i was in my early te
 <a href="https://kubernetes.io/" target="_blank"> <img align="left" src="https://cdn2.iconfinder.com/data/icons/mixd/512/20_kubernetes-512.png" alt="k8s" height ="42px"/> </a>
 <a href="https://www.terraform.io/" target="_blank"> <img align="left" src="https://dashboard.snapcraft.io/site_media/appmedia/2019/11/terraform.png" alt="tf" height ="42px"/> </a>
 <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img align="left" src="https://img.icons8.com/color/344/azure-1.png" alt="Azure" height ="42px"/> </a>
+<br/>
+<br/>
+<br/>
 
-<br/>
 ### Everyday tasks include:
-<br/>
 <br/>
 <a href="https://www.python.org/" target="_blank"> <img align="left" src="https://e7.pngegg.com/pngimages/621/411/png-clipart-computer-icons-python-anaconda-anaconda-angle-other-thumbnail.png" alt="python" height ="42px"/> </a>
 <a href="https://github.com/pallets/flask" target="_blank"> <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png" alt="flask" height ="42px"/> </a>
@@ -45,6 +46,8 @@ My journey to the tech industry started as far back as when i was in my early te
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <br/>
 <br/>
+<br/>
+
 ### 📊 Github Stats
 <a href='https://github.com/omo-nosa/github-stats-transparent'>
   

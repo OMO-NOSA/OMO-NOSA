@@ -36,12 +36,14 @@ My journey to the tech industry started as far back as when i was in my early te
 <br/>
 ### Everyday tasks include:
 <br/>
+<br/>
 <a href="https://www.python.org/" target="_blank"> <img align="left" src="https://e7.pngegg.com/pngimages/621/411/png-clipart-computer-icons-python-anaconda-anaconda-angle-other-thumbnail.png" alt="python" height ="42px"/> </a>
 <a href="https://github.com/pallets/flask" target="_blank"> <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png" alt="flask" height ="42px"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" align="left" alt="docker" height='42px'/> </a>
 <a href="https://docs.github.com/en/actions" target="_blank"> <img src="https://miro.medium.com/max/1216/1*UFmSy8alWW5PRRrSOfEyNA.png" align="left" alt="ansible" height='42px'/> </a>
 <a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.jenkins.io/images/logos/jenkins/256.png" align="left" alt="jenkins" height='42px'/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<br/>
 <br/>
 ### 📊 Github Stats
 <a href='https://github.com/omo-nosa/github-stats-transparent'>
